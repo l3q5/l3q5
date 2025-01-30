@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="910px" height="390px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+
+<tspan x="15" y="30">         -/oyddmdhs+:.                </tspan>
+<tspan x="15" y="50">     -odNMMMMMMMMNNmhy+-`              </tspan>
+<tspan x="15" y="70">   -yNMMMMMMMMMMMNNNmmdhy+-            </tspan>
+<tspan x="15" y="90"> `omMMMMMMMMMMMMNmdmmmmddhhy/`         </tspan>
+<tspan x="15" y="110"> omMMMMMMMMMMMNhhyyyohmdddhhhdo`       </tspan>
+<tspan x="15" y="130">.ydMMMMMMMMMMdhs++so/smdddhhhhdm+`     </tspan>
+<tspan x="15" y="150"> oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.    </tspan>
+<tspan x="15" y="170">  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh    </tspan>
+<tspan x="15" y="190">    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy    </tspan>
+<tspan x="15" y="210">       /mMMMMMMNNNmmmdddhhhhhmMNhs:    </tspan>
+<tspan x="15" y="230">    `oNMMMMMMMNNNmmmddddhhdmMNhs+`     </tspan>
+<tspan x="15" y="250">  `sNMMMMMMMMNNNmmmdddddmNMmhs/.       </tspan>
+<tspan x="15" y="270"> /NMMMMMMMMNNNNmmmdddmNMNdso:`         </tspan>
+<tspan x="15" y="290">+MMMMMMMNNNNNmmmmdmNMNdso/-            </tspan>
+<tspan x="15" y="310">yMMNNNNNNNmmmmmNNMmhs+/-`              </tspan>
+<tspan x="15" y="330">/hMMNNNNNNNNMNdhs++/-`                 </tspan>
+<tspan x="15" y="350">`/ohdmmddhys+++/:.`                    </tspan>
+<tspan x="15" y="370">  `-//////:--.                         </tspan>
+
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">caio@wired</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Gentoo Linux x86_64</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">Brazil</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Rio de Janeiro</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 3 months, 15 days</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">Doom Emacs</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Career</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Software Engineer</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Java, Python, Javascript, C#, Golang, Rust</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Angular, React(Next), Vue(Nuxt)</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Kernel Hacking, Piano</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">l3q5@proton.me</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">l3q5.github.io</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Linkedin</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">l3q5</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Locale</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">en_US.UTF-8, pt_BR.UTF-8 UTF-8</tspan>
+</text>
+</svg>
