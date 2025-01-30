@@ -1,43 +1,42 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="monospace" font-size="16px">
 <style>
 @font-face {
-src: local('Consolas'), local('Consolas Bold');
-font-family: 'ConsolasFallback';
+font-family: 'monospace';
 font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
 }
-.key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
+.key {fill: #d80150;}
+.value {fill: #ffffff;}
 .addColor {fill: #3fb950;}
 .delColor {fill: #f85149;}
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<text x="15" y="30" fill="#c4c5b5" class="ascii">
 
-<tspan x="15" y="30">         -/oyddmdhs+:.                </tspan>
-<tspan x="15" y="50">     -odNMMMMMMMMNNmhy+-`              </tspan>
-<tspan x="15" y="70">   -yNMMMMMMMMMMMNNNmmdhy+-            </tspan>
-<tspan x="15" y="90"> `omMMMMMMMMMMMMNmdmmmmddhhy/`         </tspan>
-<tspan x="15" y="110"> omMMMMMMMMMMMNhhyyyohmdddhhhdo`       </tspan>
-<tspan x="15" y="130">.ydMMMMMMMMMMdhs++so/smdddhhhhdm+`     </tspan>
-<tspan x="15" y="150"> oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.    </tspan>
-<tspan x="15" y="170">  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh    </tspan>
-<tspan x="15" y="190">    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy    </tspan>
-<tspan x="15" y="210">       /mMMMMMMNNNmmmdddhhhhhmMNhs:    </tspan>
-<tspan x="15" y="230">    `oNMMMMMMMNNNmmmddddhhdmMNhs+`     </tspan>
-<tspan x="15" y="250">  `sNMMMMMMMMNNNmmmdddddmNMmhs/.       </tspan>
-<tspan x="15" y="270"> /NMMMMMMMMNNNNmmmdddmNMNdso:`         </tspan>
-<tspan x="15" y="290">+MMMMMMMNNNNNmmmmdmNMNdso/-            </tspan>
-<tspan x="15" y="310">yMMNNNNNNNmmmmmNNMmhs+/-`              </tspan>
-<tspan x="15" y="330">/hMMNNNNNNNNMNdhs++/-`                 </tspan>
-<tspan x="15" y="350">`/ohdmmddhys+++/:.`                    </tspan>
-<tspan x="15" y="370">  `-//////:--.                         </tspan>
+<tspan x="15" y="30" class="key">         -/oyddmdhs+:.                </tspan>
+<tspan x="15" y="50">     <tspan class="key">-od</tspan>NMMMMMMMMNNmhy+<tspan class="key">-`</tspan>              </tspan>
+<tspan x="15" y="70">   <tspan class="key">-y</tspan>NMMMMMMMMMMMNNNmmdhy<tspan class="key">+-</tspan>            </tspan>
+<tspan x="15" y="90"> <tspan class="key">`o</tspan>mMMMMMMMMMMMMNmdmmmmddhhy<tspan class="key">/`</tspan>         </tspan>
+<tspan x="15" y="110"> <tspan class="key">om</tspan>MMMMMMMMMMMN<tspan class="key">hhyyyo</tspan>hmdddhhhd<tspan class="key">o`</tspan>       </tspan>
+<tspan x="15" y="130"><tspan class="key">.y</tspan>dMMMMMMMMMMd<tspan class="key">hs++so/s</tspan>mdddhhhhdm<tspan class="key">+`</tspan>     </tspan>
+<tspan x="15" y="150"> <tspan class="key">oy</tspan>hdmNMMMMMMMN<tspan class="key">dyooy</tspan>dmddddhhhhyhN<tspan class="key">d.</tspan>    </tspan>
+<tspan x="15" y="170">  <tspan class="key">:o</tspan>yhhdNNMMMMMMMNNNmmdddhhhhhyym<tspan class="key">Mh</tspan>    </tspan>
+<tspan x="15" y="190">    <tspan class="key">.:</tspan>+sydNMMMMMNNNmmmdddhhhhhhmM<tspan class="key">my</tspan>    </tspan>
+<tspan x="15" y="210">       <tspan class="key">/m</tspan>MMMMMMNNNmmmdddhhhhhmMNh<tspan class="key">s:</tspan>    </tspan>
+<tspan x="15" y="230">    <tspan class="key">`o</tspan>NMMMMMMMNNNmmmddddhhdmMNhs<tspan class="key">+`</tspan>     </tspan>
+<tspan x="15" y="250">  <tspan class="key">`s</tspan>NMMMMMMMMNNNmmmdddddmNMmhs<tspan class="key">/.</tspan>       </tspan>
+<tspan x="15" y="270"> <tspan class="key">/N</tspan>MMMMMMMMNNNNmmmdddmNMNdso<tspan class="key">:`</tspan>         </tspan>
+<tspan x="15" y="290"><tspan class="key">+M</tspan>MMMMMMNNNNNmmmmdmNMNdso<tspan class="key">/-</tspan>            </tspan>
+<tspan x="15" y="310"><tspan class="key">yM</tspan>MNNNNNNNmmmmmNNMmhs+/<tspan class="key">-`</tspan>              </tspan>
+<tspan x="15" y="330"><tspan class="key">/h</tspan>MMNNNNNNNNMNdhs++/<tspan class="key">-`</tspan>                 </tspan>
+<tspan x="15" y="350"><tspan class="key">`/</tspan>ohdmmddhys+++/:<tspan class="key">.`</tspan>                    </tspan>
+<tspan x="15" y="370" class="key">  `-//////:--.                         </tspan>
 
 </text>
-<text x="390" y="30" fill="#c9d1d9">
+<text x="390" y="30" fill="#ffffff">
 <tspan x="390" y="30">caio@wired</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Gentoo Linux x86_64</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">Brazil</tspan>
@@ -47,7 +46,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Career</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Software Engineer</tspan>
 <tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Java, Python, Javascript, C#, Golang, Rust</tspan>
 <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Angular, React(Next), Vue(Nuxt)</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Kernel Hacking, Piano</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Kernel Hacking, FOSS Projects, Piano</tspan>
 <tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">l3q5@proton.me</tspan>
 <tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">l3q5.github.io</tspan>
 <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Linkedin</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">l3q5</tspan>
